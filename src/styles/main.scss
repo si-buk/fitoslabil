@@ -1,0 +1,12 @@
+@import "libs";
+@import "helpers/variables";
+@import "helpers/mixins";
+@import "general/fonts";
+@import "general/base";
+@import "../blocks/blocks";
+
+
+.header {
+  padding: 135px 0 120px 0;
+  background: url(../img/header-bg.jpg)
+}
